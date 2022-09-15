@@ -30,9 +30,9 @@ This about the developer of the application
 
 
 
-## `After you Login inside App`
+## After you Login inside App
 
-### Home page
+### `Home page`
 
 ![AfterLogin homepage](https://user-images.githubusercontent.com/104582370/190377519-601ac77f-d9e1-4ea9-91d4-dec9383c6e36.png)
 
