@@ -44,7 +44,7 @@ After clicking on submitt button on login page you will get here. After clicking
 
 ![editnotes](https://user-images.githubusercontent.com/104582370/190380916-f915413a-1369-4d42-81c1-9097ae6f58c3.png)
 
-You can edit your notes here after clicking on edit sysmbol
+You can edit your notes here after clicking on edit symbol
 
 
 
